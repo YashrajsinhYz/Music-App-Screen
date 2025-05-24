@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559143997903",
+    "project_id": "fir-firebase-f2c09",
+    "storage_bucket": "fir-firebase-f2c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559143997903:android:d11a86decf87bf318a02ba",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEGKkNdM8qw8fxS_wCWespVbR6ajuSJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559143997903:android:e1583ecb744e02b18a02ba",
+        "android_client_info": {
+          "package_name": "com.example.music_service_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEGKkNdM8qw8fxS_wCWespVbR6ajuSJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
